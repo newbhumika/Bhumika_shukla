@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I am a software engineer from India :india:. Tech enthusiast on the journey making life easier by building scalable solutions. 
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
