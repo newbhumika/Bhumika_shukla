@@ -43,7 +43,7 @@ Software Engineer
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: Bhumika Shukla](https://img.shields.io/badge/LinkedIn%20Badge-Blue-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumika-shukla/)]
+[![Linkedin: Bhumika Shukla](https://img.shields.io/badge/LinkedIn%20-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumika-shukla/)]
 
 [![Twitter: Bhumika Shukla](https://img.shields.io/twitter/follow/beforebhumika?style=social)](https://twitter.com/beforebhumika)
 [![GitHub: Bhumika Shukla](https://img.shields.io/github/followers/newbhumika?label=newbhumika&style=social)](https://github.com/newbhumika)
