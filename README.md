@@ -26,10 +26,10 @@ Software Engineer
 **💬 Ask me about:**
 
 <code><a href="https://(https://www.java.com/en/)" target="_blank"><img height="50" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 **🌱 Looking forward to learn:**
@@ -43,12 +43,12 @@ Software Engineer
 
 **📫 Reach me at:**<br>
 
+[![Linkedin: Bhumika Shukla](https://img.shields.io/badge/LinkedIn%20Badge-Blue-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumika-shukla/)]
 
-<a href="https://instagram.com/bhumikashukla943/" target="_blank"><img src="https://img.shields.io/badge/@bhumikashukla943-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Linkedin: Bhumika Shukla](https://img.shields.io/linkedin/follow/bhumika-shukla?style=social)](https://linkedin.com/in/bhumika-shukla)
 [![Twitter: Bhumika Shukla](https://img.shields.io/twitter/follow/beforebhumika?style=social)](https://twitter.com/beforebhumika)
 [![GitHub: Bhumika Shukla](https://img.shields.io/github/followers/newbhumika?label=newbhumika&style=social)](https://github.com/newbhumika)
 
+<a href="https://instagram.com/bhumikashukla943/" target="_blank"><img src="https://img.shields.io/badge/@bhumikashukla943-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=newbhumika.visitor-badge)
