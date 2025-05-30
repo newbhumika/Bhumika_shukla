@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I am a software engineer from India :india:. Tech enthusiast on the journey making life easier by building scalable solutions. 
+I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
@@ -43,8 +43,9 @@ Software Engineer
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: Bhumika Shukla](https://www.svgrepo.com/show/521725/linkedin.svg)=https://www.linkedin.com/in/bhumika-shukla/)](https://www.linkedin.com/in/bhumika-shukla/)
+
 <a href="https://instagram.com/bhumikashukla943/" target="_blank"><img src="https://img.shields.io/badge/@bhumikashukla943-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Linkedin: Bhumika Shukla](https://img.shields.io/linkedin/follow/bhumika-shukla?style=social)](https://linkedin.com/in/bhumika-shukla)
 [![Twitter: Bhumika Shukla](https://img.shields.io/twitter/follow/beforebhumika?style=social)](https://twitter.com/beforebhumika)
 [![GitHub: Bhumika Shukla](https://img.shields.io/github/followers/newbhumika?label=newbhumika&style=social)](https://github.com/newbhumika)
 
